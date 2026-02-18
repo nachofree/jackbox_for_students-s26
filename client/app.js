@@ -5,7 +5,8 @@
  */
 
 // Base URL for the API. Use this for all requests (e.g. API_BASE + '/api/join').
-const API_BASE = window.location.origin;
+const API_BASE = "https://unpopulously-ungrimed-pilar.ngrok-free.dev"
+
 
 // -----------------------------------------------------------------------------
 // State (set after join)
